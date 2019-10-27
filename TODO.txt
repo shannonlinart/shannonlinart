@@ -1,2 +1,5 @@
 -add in commissions tab
 -update favicon with SL logo
+-finish about, about_shanngens
+-remove html footers
+-update Instagram feed, once in a while
